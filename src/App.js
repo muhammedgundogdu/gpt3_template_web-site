@@ -11,8 +11,6 @@ import {
 import { CTA, Brand, Navbar } from "./components";
 import './App.css'
 
-//27.04 de kaldım
-
 function App() {
   
     return (
